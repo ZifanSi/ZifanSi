@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm **Zifan Si**, a 4th-year Software Engineering Co-op student at McMaster University (Class of 2026) based in Hamilton, Canada 🇨🇦.  
-I'm passionate about **Full-Stack Development** **DevOps**, and **AI/ML**, with a strong interest in healthcare innovation and real-time systems.
+I'm **Zifan Si**, a **4th-year Software Engineering Co-op student** at **McMaster University** (Class of 2026), based in **Hamilton, Canada**.  
+I'm passionate about **Full-Stack Development**, **DevOps**, and **AI/ML** — with a focus on **healthcare innovation** and **real-time systems**.
+
 
 - 👨‍💻 Application Developer @ **Hamilton Health Sciences** — building full-stack solutions to replace legacy systems and automate clinical workflows.
 
