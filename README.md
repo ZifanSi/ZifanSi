@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **Zifan Si**, a **4th-year Software Engineering Co-op student** at **McMaster University** (Class of 2026), based in **Hamilton, Canada**.  
+I'm **Zifan Si**, a **4th-year Software Engineering Co-op student** at **McMaster University**, based in **Hamilton, Canada**.  
 I'm passionate about **Full-Stack Development**, **DevOps**, and **AI/ML** — with a focus on **healthcare innovation** and **real-time systems**.
 
 
@@ -8,7 +8,7 @@ I'm passionate about **Full-Stack Development**, **DevOps**, and **AI/ML** — w
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukhsaankumar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zifansi/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zifansi102@gmail.com) 
 
 ---
