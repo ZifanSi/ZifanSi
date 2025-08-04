@@ -1,9 +1,6 @@
-# 💫 About Me:
-I'm **Zifan Si**, a **Software Engineering Co-op student at McMaster University**, building scalable systems at the intersection of **full-stack development**, **DevOps**, and **AI/ML**.  
-I’m currently developing production-grade healthcare platforms, with a focus on **system design**, **data-driven workflows**, and **cloud-native architectures**.
-
-- 👨‍💻 Application Developer @ **Hamilton Health Sciences** — building full-stack solutions to replace legacy systems and automate clinical workflows.
-
+# Hello !
+My name is Zifan Si, and I'm a Software Engineering student at McMaster University with a focus on building scalable systems. I specialize in building scalable systems that combine full-stack development, DevOps, and AI/ML.
+I am a former Application Developer at Hamilton Health Sciences, where I'm engaged in building production-grade healthcare platforms. My work involves designing robust systems, implementing data-driven workflows, and utilizing cloud-native architectures to replace legacy systems and automate critical clinical processes.
 ---
 
 ## 🌐 Socials:
