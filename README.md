@@ -1,4 +1,4 @@
-## 💫 About Me
+## Hello ! About Me
 
 Hi, I’m **Zifan Si**, a **Software Engineering student at McMaster University** passionate about building **scalable systems** that bring together **full-stack development**, **DevOps**, and **AI/ML**.
 
