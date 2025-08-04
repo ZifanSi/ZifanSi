@@ -1,7 +1,7 @@
-## Hello ! About Me
+## About Me
 
 Hi, I’m **Zifan Si**, a 4th year **Software Engineering student at McMaster University**.  
-I’m good at designing complex systems with simple, clean code :)
+I’m pretty good at designing complex systems with clean code :)
 
 
 ## 🌐 Socials:
