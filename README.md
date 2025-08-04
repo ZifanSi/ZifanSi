@@ -1,8 +1,7 @@
 ## Hello ! About Me
 
-Hi, I’m **Zifan Si**, a **Software Engineering student at McMaster University** passionate about building **scalable systems** that bring together **full-stack development**, **DevOps**, and **AI/ML**.
-
-I focus on designing robust architectures, automating workflows, and developing data-driven solutions using **cloud-native technologies**. My interests lie in solving real-world problems through clean, efficient, and impactful software.
+Hi, I’m **Zifan Si**, a 4th year **Software Engineering student at McMaster University**.  
+I’m good at designing reliable systems, automating tasks, and building smart data-driven features that solve real-world problems with clean and efficient code.
 
 
 ## 🌐 Socials:
