@@ -1,7 +1,7 @@
 ## About Me
 
 Hi, I’m **Zifan Si**, a 4th year **Software Engineering student at McMaster University**.  
-Passionate about technology + healthcare.
+Good at building complex systems with clean code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zifansi/) 
