@@ -89,6 +89,4 @@ I enjoy building **complex** systems with **clean** code.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ZifanSi&show_icons=true&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZifanSi&layout=compact&theme=dark&hide_border=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZifanSi&theme=dark&hide_border=false)  
