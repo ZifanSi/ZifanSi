@@ -87,6 +87,6 @@ Good at building complex systems with minimum viable code.
 ![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)  
 
 ---
-
+```
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=ZifanSi&theme=dark&hide_border=false)<br/>
