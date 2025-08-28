@@ -1,7 +1,7 @@
 # About Me
 
 Hi, I’m **Zifan Si**, a 4th year Software Engineering student at McMaster University.  
-Good at building complex systems with minimum viable code.
+Good at building complex systems with minimum viable codes.
 
 
 ## Socials
