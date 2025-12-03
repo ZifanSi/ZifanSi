@@ -1,5 +1,5 @@
 ### Zifan Si
-Final-year Software Engineering student@ 
+Final-year Software Engineering student
 McMaster University  
 
 Working on tomorrow’s code on yesterday’s GPU.
