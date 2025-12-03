@@ -1,7 +1,7 @@
 ## About Me
 Hi, I’m **Zifan Si**.
 
-Good at building tomorrow’s models on yesterday’s hardware.
+Building tomorrow’s model on yesterday’s hardware.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zifansi/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zifansi102@gmail.com) 
