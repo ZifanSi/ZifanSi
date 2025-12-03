@@ -1,5 +1,7 @@
-# Hi, I’m Zifan Si
-Final-year Software Engineering student at McMaster University  
+### Zifan Si
+Final-year Software Engineering student  
+McMaster University  
+
 Working on tomorrow’s code on yesterday’s GPU.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zifansi/) 
